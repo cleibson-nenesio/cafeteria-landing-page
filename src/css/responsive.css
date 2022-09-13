@@ -31,10 +31,12 @@
 @media (max-width: 720px) {
     .ladrilho .grande {
         width: 100%;
+        border-top-right-radius: 15px;
     }
 
     .ladrilho .medio {
         width: 100%;
+        border-bottom-left-radius: 15px;
     }
 
     .ladrilho .pequeno,
